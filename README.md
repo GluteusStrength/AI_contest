@@ -68,3 +68,13 @@
 
 ![결과2](https://github.com/GluteusStrength/Capstone-Design/assets/48168432/f53905b9-12ac-4886-b5ad-9e762b668cc4)
 - 클래스 별 결과
+
+### 3. Demo(prototype)
+`framework`
+<br> Streamlit - development of a prototype
+<br>
+`library`
+<br>
+openCV - input real-time images from the webcam into the model
+
+![prototype](https://github.com/GluteusStrength/Capstone-Design/assets/48168432/d2079e33-e3e9-4104-8a19-fa57773fadf1)
